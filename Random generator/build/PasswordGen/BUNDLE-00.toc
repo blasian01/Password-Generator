@@ -1,0 +1,4 @@
+([('PasswordGen',
+   '/Users/bronson/Desktop/Shared Files/Coding projects (python)/Password '
+   'generator/Random generator/dist/PasswordGen',
+   'EXECUTABLE')],)
